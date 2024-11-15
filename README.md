@@ -38,7 +38,7 @@ Experience it here: [Rock, Paper, Scissors Live]https://rock-paper-scissors-js-c
 
 ### Features
 - 💱 **Multi-Currency Support**: Convert between multiple currencies with real-time rates.
-- 🌐 **API Integration**: Fetches live exchange rates using [API Name, e.g., ExchangeRate-API].
+- 🌐 **API Integration**: Fetches live exchange rates using [API Name, API: https://app.currencyapi.com/].
 - 🖌️ **User-Friendly Interface**: Clean and intuitive design using HTML and CSS.
 - ⚡ **Dynamic Calculations**: JavaScript handles conversions, error handling, and input validation.
 - 🔄 **Quick Updates**: Automatically updates conversion rates on reload.
